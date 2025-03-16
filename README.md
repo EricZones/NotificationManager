@@ -35,6 +35,3 @@ NotificationManager is a Teamspeak client plugin that lets you toggle messages a
 | Toggle Pokes         | Toggle incoming pokes            |
 
 - Buttons can be accessed by clicking on the 'Plugins' button on the top bar
-
-## Contributors
-- **EricZones** - Developer
